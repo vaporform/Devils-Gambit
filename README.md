@@ -1,11 +1,15 @@
 # Devil's Gambit
 
+![Devil's Gambit gameplay](screenshots/gameplay/Game1.png)
+
 ## Project Description
 
 - **Project by:** Siraphob Phonphakdee
 - **Game Genre:** Strategy, Puzzle, Card Game, Turn-Based
 
 Devil's Gambit is a turn-based strategic card game featuring player versus demon gameplay on a 4×4 grid. Players flip cards to score points and compete against increasingly challenging demon opponents, each with unique AI strategies. The game also includes a comprehensive statistics dashboard for analyzing gameplay performance across multiple sessions.
+
+![Devil's Gambit gameplay](screenshots/gameplay/Game3.png)
 
 ---
 
@@ -71,6 +75,8 @@ The game will launch with a title screen. Use arrow keys to move the cursor and 
 - **Right Arrow (at edge)**: Enter your helper card hand.
 - **Left Arrow (in hand)**: Return to grid from helper hands.
 - **Space (in hand)**: Select and use the helper card.
+
+![Devil's Gambit gameplay](screenshots/gameplay/Game2.png)
 
 ### How to Play
 At the start, a 4×4 grid of face-down cards with each assigned random value from each player's deck. The player can choose do following:
