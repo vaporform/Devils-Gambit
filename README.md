@@ -10,7 +10,7 @@
 Devil's Gambit is a turn-based strategic card game featuring player versus demon gameplay on a 4×4 grid. Players flip cards to score points and compete against increasingly challenging demon opponents, each with unique AI strategies. The game also includes a comprehensive statistics dashboard for analyzing gameplay performance across multiple sessions.
 
 ![Devil's Gambit gameplay](screenshots/gameplay/Game3.png)
-
+![Devil's Gambit video showcase](https://youtu.be/kYFcjpTqp3o)
 ---
 
 ## Installation
